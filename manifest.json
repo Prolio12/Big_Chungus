@@ -1,0 +1,18 @@
+{
+	"format_version": 2,
+	"header": {
+	"description": "Big Chungus llega a Minecraft en este Maginfico Resource Pack",
+	"name": "Big Chungus",
+	"uuid": "56df969d-46cc-439d-a312-b9a522ba3b5a",
+	"version": [1, 0, 0],
+	"min_engine_version": [1, 14, 0]
+	},
+	"modules": [
+	{
+	"description": "Big Chungus",
+	"type": "resources",
+	"uuid": "ceedc5fe-2faa-4359-85c0-bb898210798e",
+	"version": [1, 0, 0]	
+	}
+	]
+	}
