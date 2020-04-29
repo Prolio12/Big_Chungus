@@ -1,6 +1,7 @@
 # Big_Chungus
 BIG CHUNGUDUUS
 Bienvenido Al RP, Resource Pack de Big Chungus, A partir de ahora veras reemplazado el Slime por este Magnifico y Resplandeciente simbolo de la Gracia
+Antes que nada, descarga el RP, descomprimelo en una sola carpeta y ahora si, prosigue leyendo
 Asi que empezemos, para Instalar el RP requeriras de encontrar la ruta de la carpeta llamada: Developement_Resource_Packs, solo disponible en las versiones 
 Bedrock de Windows, Android y iOS, entonces, la carpeta seguira diferentes rutas para llegar a esta, aun asi, puedes tomar como indicio la ruta
 games\com.mojang\development_resource_packs
