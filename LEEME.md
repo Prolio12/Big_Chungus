@@ -31,4 +31,5 @@ pueden escribirla donde sea que yo este y justo debajo de mi una caja de comenta
 Disfrutad del pack!
 
 PD: RP = Resource Pack
-XD
+
+ILWAG-GFR
